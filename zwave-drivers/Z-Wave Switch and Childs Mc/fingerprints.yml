@@ -715,6 +715,12 @@ zwaveManufacturer:
     productType: 0x0003
     productId: 0x0012
     deviceProfileName: metering-switch
+  - id: 0086/0003/0006
+    deviceLabel: Aeon Labs Smart Energy Switch
+    manufacturerId: 0x0086
+    productType: 0x0003
+    productId: 0x0006
+    deviceProfileName: metering-switch
   - id: 021F/0003/0087
     deviceLabel: Dome Outlet
     manufacturerId: 0x021F
